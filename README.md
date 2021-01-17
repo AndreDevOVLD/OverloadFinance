@@ -1,0 +1,3 @@
+Overload Finance is a fork of RAGE which had massive success recently with a stealth listing alongside no presale. OVLD follows the same model but with a twist, extreme lp incentives.
+ OVLD is designed to be sustainable, maximising its value by ever-increasing token price, and it encourages users to be active by offering exceptional rewards: Massive lp gains. 
+ OVLD solves the impermanent loss (IL) problem with its Overload System where it rewards LP providers with a 6% fee on every transaction. This means even when you provide Liquidity, you'll be gaining MASSIVE amounts of OVLD while you still procure Uniswap fees.
